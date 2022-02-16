@@ -193,3 +193,9 @@ footer a:hover{
 	color: var(--verd01);
 	border-bottom:1px solid var(--verd01);
 }
+footer #autor{
+	color:white;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px black;
+	border-bottom: 1px solid white;
+}
